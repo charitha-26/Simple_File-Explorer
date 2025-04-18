@@ -30,4 +30,4 @@ A command-line file explorer written in C for Windows. Perform basic file operat
 Using GCC (MinGW):
 
 ```bash
-gcc file_explorer.c -o file_explorer.exe
+gcc fileexp.c -o fileexp.exe
